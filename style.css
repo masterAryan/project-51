@@ -1,0 +1,22 @@
+
+.grid{
+
+    display:flex;
+    flex-wrap: wrap;
+    justify-content: space-evenly;
+}
+h1{
+    color:black;
+    border:solid;
+
+}
+body{
+    background-color: orange;
+}
+.header{
+background-color: yellow;
+
+}
+.fact{
+    background-color: yellow;
+}
